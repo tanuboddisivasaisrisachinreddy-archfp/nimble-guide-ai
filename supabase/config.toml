@@ -1,1 +1,13 @@
 project_id = "mazdwvonopitdheiwuun"
+
+[functions.chat]
+verify_jwt = false
+
+[functions.analyze-code]
+verify_jwt = false
+
+[functions.generate-quiz]
+verify_jwt = false
+
+[functions.summarize-notes]
+verify_jwt = false
